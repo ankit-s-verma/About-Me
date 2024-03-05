@@ -1,1 +1,4 @@
-# About-Me
+- 👋 Hi, I’m @Ankit Verma
+- 👀 I’m interested in coding, especially in Python.
+- 💞️ I’m looking to collaborate on Python backend development and AI Development primarily. I am open to other opportunities.
+- 📫 How to reach me: ankit.sat.verma@gmail.com / +918652849716 / +447767478623
